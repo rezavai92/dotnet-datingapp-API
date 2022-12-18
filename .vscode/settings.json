@@ -1,0 +1,4 @@
+{
+	"omnisharp.enableAsyncCompletion": true,
+	"omnisharp.enableImportCompletion": true
+}
